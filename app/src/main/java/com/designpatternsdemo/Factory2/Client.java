@@ -21,5 +21,8 @@ public class Client {
         yumi.eat();
         yumi.product();
         yumi.sale();
+
+
+        System.out.println(5454545);
     }
 }
