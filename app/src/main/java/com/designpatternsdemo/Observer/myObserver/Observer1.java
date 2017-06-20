@@ -1,5 +1,7 @@
 package com.designpatternsdemo.Observer.myObserver;
 
+import android.os.SystemClock;
+
 /**
  * Created by qingchen on 2017/6/17.
  */
